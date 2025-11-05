@@ -1,0 +1,11 @@
+user_id,full_name,email,num_videos_watched,avg_watch_time_per_day,last_login_days_ago,support_tickets,tenure_months,churn,churn_probability
+1,shubham borse,shubhamborse719@gmail.com,0,0,0,0,6,0,0.67
+2,mahesh kale,kalemahesh07@gmail.com,0,0,0,0,6,0,0.67
+3,Dnyanu,chitale@gmail.com,0,0,0,0,6,0,0.1
+4,ghjkl,fdghj@gmail.com,0,0,0,0,6,0,0.02
+5,karan sathe,karan@gmail.com,0,0,0,0,6,0,0.0
+7,Dnyanu,chitale12@gmail.com,0,0,0,0,6,0,0.0
+8,om,om@gmail.com,0,0,0,0,6,0,0.0
+9,mahesh,mahesh@gmail.com,0,0,0,0,6,0,0.0
+11,chitale,chitale1@gmail.com,0,0,0,0,6,0,0.0
+13,om,om12@gmail.com,0,0,0,0,6,0,0.0
